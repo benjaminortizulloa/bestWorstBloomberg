@@ -8,7 +8,13 @@
 
 </head>
 <body>
-    <svg></svg>
+    <div class="fillViewport" id="titleCard" style="position: fixed; z-index: 1000; top: 0; left: 0">
+        <h1>Exploring Best (and Worst) Data</h1>
+        <h2>Using graph algorithms to group data from <a href="https://www.bloomberg.com/graphics/best-and-worst/data/ranks.csv" target="_blank">Bloomberg</a></h2>
+    </div>
+    <div class="fillViewport" id="svgContainer">
+        <svg></svg>
+    </div>
     <div id="info">
         <h2 id="title"></h2>
         <h3 id="subheader"></h3>
@@ -18,10 +24,23 @@
             <span id="methodology"></span>
         </p>
         <p> 
-            <b>Sources</b>
+            <b>Sources: </b>
             <span id="sources"></span>
         </p>
+        <p>
+            <b>Updated: </b>
+            <span id="updated"></span>
+        </p>
     </div>
+    <div id="youShouldScroll">
+        <div>
+            <p id="bounceScroll" style="margin: 0;" >Scroll Down</p>
+            <p style="padding: 0; margin: 0;">&#9660;</p>
+        </div>
+    </div>
+    <div class="fillViewport" id="section1"></div>
+    <div class="halfViewport"></div>
+    <div class="fillViewport" id="section2"></div>
 </body>
 <script src="logic.js"></script>
 </html>
