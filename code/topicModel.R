@@ -100,34 +100,50 @@ large_component_node_list <- igraph::as_data_frame(large_component, 'vertices')
 
 updated_node_list <- node_list %>%
   dplyr::left_join(large_component_node_list) %>%
-  dplyr::rename(filename = name, x_network = x, y_networkd = y) %>%
+  dplyr::rename(filename = name, x_network = x, y_network = y) %>%
   dplyr::left_join(ranks) %>%
   dplyr::mutate(updated = lubridate::mdy(updated))%>%
   dplyr::arrange(updated) %>%
-  dplyr::mutate(monthYear = updated %>% 
+  dplyr::mutate(month = lubridate::month(updated),
+                year = lubridate::year(updated),
+                day = lubridate::day(updated),
+                monthYear = updated %>% 
                   {paste(lubridate::month(.), lubridate::year(.), sep = '-')}) %>%
   dplyr::group_by(monthYear) %>%
   tidyr::nest() %>%
   dplyr::mutate(data = purrr::map(data, function(dta){
     dta$timeRow = ifelse(1:nrow(dta) %% 2 == 1, 1, 2)
     dta$timeCol = ceiling(1:nrow(dta) /2)
-    dta$time = 1:nrow(dta)
+    dta$timeStack = 1:nrow(dta)
     return(dta)
-  }))
-                    
+  })) %>%
+  tidyr::unnest(cols = c(data))
 
 large_component %>% plot(vertex.color = igraph::V(.)$walktrap_group, vertex.size=4, vertex.label = '')
 
+updated_edge_list <- tibble::tibble(
+  from = updated_node_list$filename,
+  from_x = updated_node_list$x_network,
+  from_y = updated_node_list$y_network
+) %>%
+  dplyr::right_join(edge_list) %>%
+  dplyr::left_join(
+    tibble::tibble(
+      to = updated_node_list$filename,
+      to_x = updated_node_list$x_network,
+      to_y = updated_node_list$y_network
+    )
+  )
+
 readr::write_csv(updated_node_list, '../data/node_list.csv' )
-readr::write_csv(edge_list, "../data/edge_list.csv")
+readr::write_csv(updated_edge_list, "../data/edge_list.csv")
 
 forFrontend <- list(
   nodes = updated_node_list,
-  edges = edge_list
+  edges = updated_edge_list
 ) %>%
   jsonlite::toJSON()
 
 write(forFrontend, '../data/bestWorstNetwork.json')
 write(paste0("let bestWorst = ", forFrontend), "../data/bestWorstNetwork.js")
 
-d3
