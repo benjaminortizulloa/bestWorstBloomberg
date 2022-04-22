@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#info {
+    position: fixed;
+    top: 0; 
+    left: 0;
+    width: 30%;
+    background-color:rgba(255, 255, 255, .95);
+    z-index: 1000;
+    pointer-events: none;
+    padding: 10px;
+    border: solid black 1px;
+    opacity: 0;
+}
+
+#title {
+    margin-bottom: 0px;
+}
+
+#subheader {
+    margin-top: 5px
+}
