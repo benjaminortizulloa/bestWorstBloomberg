@@ -1,0 +1,357 @@
+title,updated,entity,topic,winner,is_new,is_pick,filename
+Best on U.S. Economy: Forecasters,7/1/2016,people,economics,Christophe Barraud,,TRUE,best-on-u-s-economy-forecasters.csv
+CO<span class='sub'>2</span> Saved by Bike-Sharing Programs: U.S. Cities,8/11/2016,places,lifestyle,"New York, NY",TRUE,FALSE,co2-saved-by-bike-sharing-programs-us-cities.csv
+Highest Number of Militias: States,2/24/2016,places,politics-and-policy,Ohio,,TRUE,highest-number-of-militias-states.csv
+Best Large-Sized Performers: Hedge Funds,2/23/2016,companies,investing,Perceptive Life Sciences,,TRUE,best-large-sized-performers-hedge-funds.csv
+Minimum Wage Closest to Median Wage: Countries,2/10/2016,places,personal-finance,Turkey,,TRUE,minimum-wage-closest-to-median-wage-countries.csv
+Top Donors to Charity in 2015: U.S. Billionaires,2/9/2016,people,business,John Alfred Paulson (John and Jenny),,TRUE,top-donors-to-charity-in-2015-u-s-billionaires.csv
+Greatest Increase in Gun Background Checks 2010-2015: States,1/5/2016,places,politics-and-policy,Indiana,,TRUE,greatest-increase-in-gun-background-checks-2010-2015-states.csv
+Best on the Chinese Economy: Forecasters,1/1/2016,people,economics,Song Yu,,TRUE,best-on-the-chinese-economy-forecasters-1.csv
+Best on the Brazilian Economy: Forecasters,1/1/2016,people,economics,Ilan Goldfajn,,TRUE,best-on-the-brazilian-economy-forecasters.csv
+Best on the Euro-Zone Economy: Forecasters,1/1/2016,people,economics,Christophe Barraud,,TRUE,best-on-the-euro-zone-economy-forecasters.csv
+Best on the Japanese Economy: Forecasters,1/1/2016,people,economics,Yoshiki Shinke*,,TRUE,best-on-the-japanese-economy-forecasters.csv
+Best on the Mexican Economy: Forecasters,1/1/2016,people,economics,Rodolfo Navarrete,,TRUE,best-on-the-mexican-economy-forecasters.csv
+Best on the UK Economy: Forecasters,1/1/2016,people,economics,Dominic Bryant,,TRUE,best-on-the-uk-economy-forecasters.csv
+Greatest Increase in U.S. Imports of Crude Oil:  Countries,12/21/2015,places,business,Canada,,TRUE,greastest-increase-in-u-s-imports-of-crude-oil-countries-1.csv
+Largest of All Time: M&A Deals,11/11/2015,companies,business,America Online acquires Time Warner,,TRUE,largest-of-all-time-m-a-deals.csv
+Most Income Inequality: Congressional Districts,11/2/2015,places,personal-finance,"Pennsylvania, 2 - Chaka Fattah (D)",,TRUE,most-income-inequality-congressional-districts.csv
+Biggest Companies Incorporated in Ireland: Stocks,10/29/2015,companies,business,Allergan,,TRUE,biggest-companies-incorporated-in-ireland-stocks.csv
+Most Refugees in 2014: Countries,10/29/2015,places,politics-and-policy,Turkey,,TRUE,most-refugees-in-2014-countries.csv
+Most Refugees by Place of Origin: Countries,10/29/2015,places,politics-and-policy,Syria,,TRUE,most-refugees-by-place-of-origin-countries.csv
+World's Biggest by Deposits: Banks,10/21/2015,companies,business,Industrial & Commercial Bank of China,,TRUE,world-s-biggest-by-deposits-banks.csv
+World's Largest: Managed Pension Funds,10/20/2015,investments,investing,Government Pension Investment Fund,,TRUE,world-s-largest-managed-pension-funds.csv
+Greatest Increase In NICS Gun Background Checks: States,10/16/2015,places,politics-and-policy,North Carolina,,TRUE,greatest-increase-in-number-of-nics-background-checks-states.csv
+Most NICS Gun Background Checks per Capita: States,10/16/2015,places,politics-and-policy,Kentucky,,TRUE,most-nics-firearm-background-checks-per-capita-states.csv
+Most Underfunded Pension Plans: States,10/8/2015,places,economics,Illinois,,TRUE,most-underfunded-pension-plans-states-1.csv
+Highest Percentage Increase in NFA-Registered Guns: States,10/7/2015,places,politics-and-policy,Utah,,TRUE,highest-percentage-increase-in-nfa-registered-weapons-states.csv
+Most Popular: Massive Open Online Courses,10/7/2015,other,education,Machine Learning,,TRUE,most-popular-massive-open-online-courses.csv
+Most Representation by Women: State Legislatures,10/7/2015,people,politics-and-policy,Colorado,,TRUE,most-representation-by-women-state-legislatures.csv
+Most Planned Parenthood Locations per Capita: States,9/16/2015,places,lifestyle,Vermont,,TRUE,most-planned-parenthood-locations-per-capita-states.csv
+World's Strongest: Banks,8/1/2015,companies,business,Hang Seng Bank,,TRUE,world-s-strongest-banks.csv
+Top Selling in the First Half 2015: Art,7/21/2015,other,investing,Les femmes d'Alger (Version 'O'),,TRUE,top-selling-in-the-first-half-2015-art.csv
+Best Investment Returns: Art,6/22/2015,people,investing,Peter Doig,,TRUE,best-investment-returns-art.csv
+Highest Sub-Saharan GDP per Capita: Countries,6/17/2015,places,economics,Equatorial Guinea,,TRUE,highest-sub-saharan-gdp-per-capita-countries.csv
+Most Assets Under Management: Registered Investment Advisers,6/1/2015,companies,personal-finance,Wetherby Asset Management,,TRUE,most-assets-under-management-registered-investment-advisers.csv
+Greatest Gains in Millennial Population: U.S. Metro Areas,5/28/2015,places,lifestyle,"Riverside-San Bernardino-Ontario, CA",,TRUE,greatest-gains-in-millennial-population-u-s-metro-areas.csv
+Most Patents Granted in Millennial-Heavy Cities: U.S. Metro Areas,5/28/2015,places,business,"Dallas-Fort Worth-Arlington, TX",,TRUE,most-patents-granted-in-millennial-heavy-cities-u-s-metro-areas.csv
+Biggest Increase in Multifamily Housing Permits: U.S. Metro Areas,5/28/2015,places,economics,"Orlando-Kissimmee-Sanford, FL",,TRUE,biggest-increase-in-multifamily-housing-permits-u-s-metro-areas.csv
+Richest Family Offices: Money Managers,3/31/2015,companies,personal-finance,HSBC Private Bank,,TRUE,richest-family-offices-money-managers.csv
+Most Guns at Airport Checkpoints: States and U.S. Territories,1/29/2015,places,lifestyle,Texas,,TRUE,number-of-firearms-discovered-at-airport-checkpoints-states-and-u-s-territories.csv
+Top Advisers to Global M&A Deals: Banks,1/28/2015,companies,business,Goldman Sachs,,TRUE,top-advisers-to-global-m-a-deals-banks.csv
+Top Advisers to U.S. M&A Deals: Banks,1/28/2015,companies,business,Goldman Sachs,,TRUE,top-advisers-to-u-s-m-a-deals-banks.csv
+Most Innovative: Countries,1/14/2015,places,economics,South Korea,,TRUE,most-innovative-countries.csv
+Top Selling in 2014: Art,12/15/2014,people,investing,Alberto Giacometti,,TRUE,top-selling-in-2014-art.csv
+Top Selling in 2014: Artists,12/15/2014,people,investing,Andy Warhol,,TRUE,top-selling-in-2014-artists.csv
+Most Registered Guns per Capita: States,12/15/2014,places,lifestyle,Wyoming,,TRUE,most-registered-guns-per-capita-states.csv
+Most Community-Minded in the U.S.: Companies,12/3/2014,companies,business,Health Care,,TRUE,most-community-minded-in-the-u-s-companies.csv
+World's Largest IPOs: Stocks,11/20/2014,investments,business,Alibaba Group Holding,,,world-s-largest-ipos-stocks.csv
+Biggest Drop in Funding for Hospital Preparedness: States,10/17/2014,places,lifestyle,New York,,TRUE,highest-drop-in-hospital-preparedness-grant-funding-states.csv
+Greatest Drop in Funding for Emergency Preparedness: States,10/16/2014,places,lifestyle,Texas,,,greatest-drop-in-emergency-preparedness-grant-funding-states-1.csv
+Largest U.S. IPOs in 2014: Stocks,10/15/2014,investments,business,Alibaba Group Holding,,TRUE,largest-u-s-ipos-in-2014-stocks.csv
+Biggest Spinoffs in North America: Companies,9/30/2014,companies,business,Philip Morris International,,TRUE,biggest-spinoffs-in-north-america-companies.csv
+Top-Grossing: Saturday Night Live Alumni,9/23/2014,people,business,Eddie Murphy,,TRUE,top-grossing-saturday-night-live-alumni.csv
+Greenest in the World: Banks,9/16/2014,companies,business,Banco Santander,,TRUE,greenest-in-the-world-banks.csv
+Priciest Suites at NFL Games: Teams,9/12/2014,other,lifestyle,San Francisco 49ers,,TRUE,priciest-suites-at-nfl-games-teams.csv
+Most Crowded in 2025: Global Cities,9/12/2014,places,lifestyle,"Hong Kong SAR, China",,TRUE,most-crowded-in-2025-global-cities-1.csv
+Costliest Insured Losses 1970 to 2013: Catastrophes,9/1/2014,other,business,"Hurricane Katrina; storm surge, levee failure, damage to oil rigs",,TRUE,costliest-insured-losses-1970-to-2013-catastrophes.csv
+Biggest Spenders in Casinos: States,8/25/2014,places,business,Nevada,,TRUE,biggest-spenders-in-casinos-states.csv
+Most Efficient Health Care 2014: Countries,8/25/2014,places,lifestyle,Singapore,,TRUE,most-efficient-health-care-2014-countries.csv
+Priciest of All Time: Classic Cars,8/25/2014,investments,investing,250 GTO Berlinetta (Ferrari),,TRUE,priciest-of-all-time-classic-cars.csv
+Women in the S&P 500: CEOs,8/20/2014,people,business,Barbara Rentler,,TRUE,women-in-the-s-p-500-ceos.csv
+Where Hipsters Live: U.S. Metro Areas,8/19/2014,places,lifestyle,"New York-Northern New Jersey-Long Island, NY-NJ-PA",,TRUE,where-hipsters-live-u-s-metro-areas.csv
+Booming Hipster Neighborhoods: U.S. Metro Areas,8/19/2014,places,lifestyle,"New York-Northern New Jersey-Long Island, NY-NJ-PA",,TRUE,booming-hipster-neighborhoods-u-s-metro-areas.csv
+Most Bicycle Commuters: U.S. Cities,8/19/2014,places,lifestyle,"Portland, OR",,TRUE,most-bicycle-commuters-u-s-cities.csv
+Most Wanted Unidentified Bank Robbers: States,8/19/2014,places,politics-and-policy,New Mexico,,TRUE,most-wanted-unidentified-bank-robbers-states.csv
+Most Loved: Stocks,8/18/2014,investments,investing,LKQ,,TRUE,most-loved-stocks.csv
+Most Hated: Stocks,8/18/2014,investments,investing,TW Telecom,,TRUE,most-hated-stocks.csv
+Highest Concentration in U.S. and Metro Areas: Ancestries,7/30/2014,people,lifestyle,German,,TRUE,highest-concentration-in-u-s-and-metro-areas-ancestries.csv
+Biggest Projected Reduction in Emissions by 2030: States,7/28/2014,places,business,Maine,,TRUE,biggest-projected-reduction-in-emissions-by-2030-states.csv
+Most Expensive Droughts: States,7/28/2014,places,economics,Texas,,TRUE,most-expensive-droughts-states-1.csv
+Most Popular Among Billionaires: Colleges,7/24/2014,schools,education,Dropped out,,TRUE,most-popular-among-billionaires-colleges.csv
+Best 401(k) Plans: Companies,7/18/2014,companies,business,ConocoPhillips,,TRUE,best-401-k-plans-companies.csv
+Most Sales in the Past Decade: Living Men Artists,7/7/2014,people,investing,Gerhard Richter,,TRUE,most-sales-in-the-past-decade-living-men-artists.csv
+Most Sales in the Past Decade: Living Women Artists,7/7/2014,people,investing,Yayoi Kusama,,TRUE,most-sales-in-the-past-decade-living-women-artists.csv
+Top Selling All Time: Women Artists,7/7/2014,people,investing,Joan Mitchell,,TRUE,top-selling-all-time-women-artists.csv
+Biggest Pay Increase for STEM Occupations: U.S. Metro Areas,7/2/2014,places,personal-finance,"Seattle-Bellevue-Everett, WA",,TRUE,biggest-pay-increase-for-stem-occupations-us-metro-areas.csv
+2014 Sushinomics - Most Expensive Basic Rolls: U.S. Cities,6/20/2014,places,personal-finance,"New York, NY",,TRUE,2014-sushinomics-most-expensive-basic-rolls-us-cities.csv
+2014 Sushinomics - Most Expensive Premium Rolls: U.S. Cities,6/20/2014,places,personal-finance,"Greenwich, CT",,TRUE,2014-sushinomics-most-expensive-premium-rolls-us-cities.csv
+Biggest 3-Year Projected Dividend Increases in U.S.: Companies,6/17/2014,companies,business,Vulcan Materials,,TRUE,biggest-3-year-projected-dividend-increases-in-u-dot-s-companies.csv
+Benefitting Most from Marijuana: Stocks,6/16/2014,investments,investing,Tranzbyte,,TRUE,benefitting-most-from-marijuana-stocks.csv
+Gender-Pay Ratios by Education: Congressional Districts,6/5/2014,places,personal-finance,"Utah, 3 - Jason Chaffetz (R)",,TRUE,gender-pay-ratios-by-education-congressional-districts.csv
+Most Expensive Tesla Model S: Countries,6/3/2014,places,personal-finance,China,,TRUE,most-expensive-tesla-model-s-countries.csv
+World Hotel Index: Cities,5/30/2014,places,economics,"Geneva, Switzerland",,TRUE,world-hotel-index-cities.csv
+Best in U.S. Tech for Pay and Benefits: Companies,5/23/2014,companies,personal-finance,Google,,,best-in-us-tech-for-pay-and-benefits-companies.csv
+Highest-Paid Software Engineers: Countries,5/22/2014,places,personal-finance,Pakistan,,TRUE,highest-paid-software-engineers-countries.csv
+Fastest-Growing: U.S. Cities,5/22/2014,places,economics,"San Marcos, TX",,TRUE,fastest-growing-us-cities.csv
+Fastest-Shrinking: U.S. Cities,5/22/2014,places,economics,"Valdosta, GA",,TRUE,fastest-shrinking-us-cities.csv
+Most Poverty: U.S. Cities,5/20/2014,places,personal-finance,"Detroit, MI",,TRUE,most-poverty-us-cities.csv
+Most Financing: Cloud Companies,5/19/2014,companies,investing,Cloudera,,TRUE,most-financing-cloud-companies.csv
+Fewest Females in the 1% Club: States,5/12/2014,places,personal-finance,South Dakota,,TRUE,fewest-females-in-the-1-percent-club-states.csv
+Most Happiness per Dollar: Countries,5/12/2014,places,lifestyle,Israel,,,most-happiness-per-dollar-countries.csv
+Biggest Underwriters of Green Bonds: Investment Banks,5/9/2014,companies,business,Skandinaviska Enskilda Banking Group,,TRUE,biggest-underwriters-of-green-bonds-investment-banks.csv
+Most Raised Through Green Bonds: Issuers,5/9/2014,companies,investing,World Bank: International Finance,,TRUE,most-raised-through-green-bonds-issuers.csv
+Lowest Paid in Tech: CEOs,5/7/2014,people,business,Larry Page,,TRUE,lowest-paid-in-tech-ceos.csv
+Fewest Minorities in the 1% Club: States,5/5/2014,places,personal-finance,District of Columbia,,TRUE,fewest-minorities-in-the-1-percent-club-states.csv
+Biggest Gain in Global Art Sales: Auction Houses,5/5/2014,companies,business,Koller Auktionen Zurich,,TRUE,biggest-gain-in-global-art-sales-auction-houses.csv
+Biggest Decline in Global Art Sales: Auction Houses,5/5/2014,companies,business,Camard,,TRUE,biggest-decline-in-global-art-sales-auction-houses.csv
+Most Fine Art Sold in a Decade: Auction Houses,5/5/2014,companies,business,Christie's New York,,TRUE,most-fine-art-sold-in-a-decade-auction-houses.csv
+Fastest-Growing in Emerging-Market Tech: Companies,4/29/2014,companies,business,Digital China Information Service,,TRUE,fastest-growing-in-emerging-market-tech-companies.csv
+Most Income Inequality: U.S. Cities,4/15/2014,places,personal-finance,"Atlanta, GA",,TRUE,most-income-inequality-us-cities.csv
+Most Income Inequality: U.S. Metro Areas,4/15/2014,places,personal-finance,"Bridgeport-Stamford-Norwalk, CT",,TRUE,most-income-inequality-us-metro-areas.csv
+Global Cities Index: Cities,4/13/2014,places,business,New York,,TRUE,global-cities-index-cities.csv
+Largest Private Equity-Backed IPOs: Stocks,4/11/2014,companies,investing,Plains GP,,TRUE,largest-private-equity-backed-ipos-stocks.csv
+Biggest Infrastructure Need: States,4/10/2014,places,economics,West Virginia,,TRUE,biggest-infrastructure-need-states.csv
+Fattest Metro Areas: U.S. Cities,4/9/2014,places,lifestyle,"Huntington-Ashland, WV-KY-OH",,TRUE,fattest-metro-areas-us-cities.csv
+Biggest Tax-Free Shopping Destinations: Global Cities,4/7/2014,places,lifestyle,Paris,,,biggest-tax-free-shopping-destinations-global-cities.csv
+Biggest Tax-Free Spenders: Countries,4/7/2014,places,lifestyle,China,,,biggest-tax-free-spenders-countries.csv
+Greenest Commuters: U.S. Cities,3/31/2014,places,lifestyle,"San Francisco-Oakland-Fremont, CA",,TRUE,greenest-commuters-us-cities.csv
+Biggest Tax Refunds: States,3/31/2014,places,personal-finance,Mississippi,,,biggest-tax-refunds-states.csv
+Easiest Access to Alcohol for College Students: U.S. Counties,3/28/2014,places,lifestyle,"Berkshire County, MA",,TRUE,easiest-access-to-alcohol-for-college-students-us-counties.csv
+Most Eateries per Capita: U.S. Cities,3/27/2014,places,lifestyle,"San Francisco-Oakland-Fremont, CA",,TRUE,most-eateries-per-capita-us-cities.csv
+Fifteen Largest Video Game IPOs: Stocks,3/26/2014,companies,business,Zynga,,TRUE,fifteen-largest-video-game-ipos-stocks.csv
+Lowest Percentage of Minimum-Wage Workers: States,3/26/2014,places,personal-finance,Oregon,,TRUE,lowest-percentage-of-minimum-wage-workers-states.csv
+The Brita IndexÃ¢â‚¬â€Highest Cost of Safe Water: Countries,3/25/2014,places,economics,Ukraine,,TRUE,the-brita-index-highest-cost-of-safe-water-countries.csv
+Ukraine's Biggest Trading Partners: Countries,3/24/2014,places,business,Russia,,,ukraines-biggest-trading-partners-countries.csv
+Most Organic Farmland: Countries,3/13/2014,places,economics,Australia,,,most-organic-farmland-countries.csv
+Highest Salaries for Experienced Teachers: Countries,3/11/2014,places,personal-finance,Luxembourg,,TRUE,highest-salaries-for-experienced-teachers-countries.csv
+Attracting Most Money: Clean-Energy Technology,3/10/2014,other,economics,Solar,,TRUE,attracting-most-money-clean-energy-technology.csv
+Most Expensive at Auction: Vintage Watches,3/10/2014,other,investing,Patek Philippe Ref. 1415 World Time,,TRUE,most-expensive-at-auction-vintage-watches.csv
+Most People w/ Disposable Income of USD 200K+: Countries,3/10/2014,places,personal-finance,Australia,,TRUE,most-people-w-slash-disposable-income-of-usd-200k-plus-countries.csv
+Most Twitter Cash Tags: Companies,3/4/2014,companies,business,Apple,,TRUE,most-twitter-cash-tags-companies.csv
+Greatest Growth in Home Prices: U.S. Neighborhoods,3/4/2014,places,economics,Battery Park,,TRUE,greatest-growth-in-home-prices-us-neighborhoods.csv
+Highest Rents Paid by Retailers: Shopping Locations,3/3/2014,places,economics,Causeway Bay,,TRUE,highest-rents-paid-by-retailers-shopping-locations.csv
+Highest Retail Rents by Country: Shopping Locations,3/3/2014,places,economics,Causeway Bay,,TRUE,highest-retail-rents-by-country-shopping-locations.csv
+Highest Minimum Wage: Countries,2/26/2014,places,personal-finance,Luxembourg,,,highest-minimum-wage-countries.csv
+Highest Grossing Best Picture Winners Since 1978: Movies,2/24/2014,other,business,Titanic,,,highest-grossing-best-picture-winners-since-1978-movies.csv
+Highest Grossing Best Visual Effects Winners: Movies,2/24/2014,other,business,Titanic,,,highest-grossing-best-visual-effects-winners-movies.csv
+Most Expensive Home Prices: U.S. Neighborhoods,2/24/2014,places,economics,Pacific Palisades,,,most-expensive-home-prices-us-neighborhoods.csv
+Least Upwardly Mobile for Fast-Food Workers: U.S. Cities,2/20/2014,places,economics,"Miami-Fort Lauderdale-Pompano Beach, FL",,TRUE,least-upwardly-mobile-for-fast-food-workers-us-cities.csv
+Longest Marriages: States,2/18/2014,places,lifestyle,South Dakota,,TRUE,longest-marriages-states.csv
+Most Never-Marrieds: States,2/18/2014,places,lifestyle,District of Columbia,,TRUE,most-never-marrieds-states.csv
+Most Vehicle Thefts: States,2/14/2014,places,lifestyle,District of Columbia,,TRUE,most-vehicle-thefts-states.csv
+Most Expensive iPhones in the World: Countries,2/12/2014,places,economics,Brazil,,TRUE,most-expensive-iphones-in-the-world-countries.csv
+Most Drunks: States,2/12/2014,places,lifestyle,District of Columbia,,TRUE,most-drunks-states.csv
+Most Brewery Permits: States,2/12/2014,places,business,California,,,most-brewery-permits-states.csv
+Greatest Growth in World Oil Production: Countries,2/11/2014,places,business,United States,,TRUE,greatest-growth-in-world-oil-production-countries.csv
+Highest Income: U.S. Counties,2/10/2014,places,economics,"Loudoun County, VA",,,highest-income-us-counties.csv
+Highest Per Capita Income: U.S. Places,2/10/2014,places,economics,"Jupiter Island, FL",,,highest-per-capita-income-us-places.csv
+Most Prisoners: States,2/6/2014,places,economics,Texas,,TRUE,most-prisoners-states.csv
+Most Government Debt per Person: Countries,2/4/2014,places,economics,Japan,,,most-government-debt-per-person-countries.csv
+Fastest Growth at Westminster: Dogs,2/3/2014,other,lifestyle,Fox Terriers (Smooth),,,fastest-growth-at-westminster-dogs.csv
+Most Divorced Residents: States,1/31/2014,places,lifestyle,Nevada,,TRUE,most-divorced-residents-states.csv
+Biggest Increase in Divorce: States,1/31/2014,places,lifestyle,Maine,,,biggest-increase-in-divorce-states.csv
+Top-Grossing Tours: Boomer Bands,1/22/2014,people,lifestyle,Bon Jovi,,,top-grossing-tours-boomer-bands.csv
+Biggest Disease Outbreaks from Contamination: Foods,1/16/2014,other,lifestyle,Eggs,,TRUE,biggest-disease-outbreaks-from-contamination-foods-1.csv
+Best Emerging Markets 2014: Countries,1/6/2014,places,investing,China,,TRUE,best-emerging-markets-2014-countries.csv
+Best Frontier Markets 2014: Countries,1/6/2014,places,investing,Qatar,,TRUE,best-frontier-markets-2014-countries.csv
+Best for Doing Business: Countries,1/3/2014,places,economics,Hong Kong,,TRUE,best-for-doing-business-countries.csv
+Greatest Estimated Sales Growth in Internet Media: Companies,12/31/2013,companies,business,Qihoo 360 Technology,,TRUE,greatest-estimated-sales-growth-in-internet-media-companies.csv
+World's Best Returns in 2013: Stocks,12/31/2013,companies,investing,Mercantil Servicios Financieros,,TRUE,worlds-best-returns-in-2013-stocks.csv
+Best Against the Dollar in 2013: Currencies,12/31/2013,investments,economics,Israeli Shekel,,TRUE,best-against-the-dollar-in-2013-currencies.csv
+Biggest Change in Pay Inequality Since 2008: U.S. Cities,12/30/2013,places,personal-finance,"Washington-Arlington-Alexandria, DC-VA-MD-WV",,TRUE,biggest-change-in-pay-inequality-since-2008-us-cities.csv
+Most Wired in the World: Countries,12/26/2013,places,business,Norway,,TRUE,most-wired-in-the-world-countries.csv
+Highest Auction Prices 2013: Fine Art,12/6/2013,people,investing,Francis Bacon,,,highest-auction-prices-2013-fine-art.csv
+Best One-Month Internet IPOs: Stocks,12/6/2013,investments,business,FireEye,,TRUE,best-one-month-internet-ipos-stocks.csv
+Best Places to Work: Companies,12/5/2013,companies,business,Twitter,,TRUE,best-places-to-work-companies.csv
+Most Dangerous Tech Competitors in U.S.: Companies,12/4/2013,companies,business,IBM,,TRUE,most-dangerous-tech-competitors-in-u-dot-s-companies.csv
+Most Govt Health-Care Spending in the Americas: Countries,12/3/2013,places,economics,United States,,,most-govt-health-care-spending-in-the-americas-countries.csv
+Most Govt Health-Care Spending in Asia Pacific: Countries,12/3/2013,places,economics,Japan,,,most-govt-health-care-spending-in-asia-pacific-countries.csv
+Top-Grossing in U.S.: Animated Movies,11/26/2013,other,business,The Lion King,,,top-grossing-in-u-dot-s-animated-movies.csv
+Most Female Seniors at Work: States,11/25/2013,places,lifestyle,Alaska,,,most-female-seniors-at-work-states.csv
+Most Male Seniors at Work: States,11/25/2013,places,lifestyle,District of Columbia,,,most-male-seniors-at-work-states.csv
+Biggest Users of Green Power: Technology Companies,11/20/2013,companies,business,Lenovo,,TRUE,biggest-users-of-green-power-technology-companies.csv
+Longest Serving: Federal Reserve Chairmen,11/19/2013,people,politics-and-policy,"William McChesney Martin, Jr.",,TRUE,longest-serving-federal-reserve-chairmen.csv
+Oldest at Start of Term: Federal Reserve Chairmen,11/19/2013,people,politics-and-policy,Janet Yellen,,TRUE,oldest-at-start-of-term-federal-reserve-chairmen.csv
+Most Innovative in U.S.: States,11/18/2013,places,economics,Washington,,TRUE,most-innovative-in-u-dot-s-states.csv
+Best One-Day Internet IPOs: Stocks,11/14/2013,investments,business,LinkedIn,,TRUE,best-one-day-internet-ipos-stocks.csv
+Best One-Week Internet IPOs: Stocks,11/14/2013,investments,business,LinkedIn,,TRUE,best-one-week-internet-ipos-stocks.csv
+Biggest Decreases in Gold Stockpiles: Countries,10/31/2013,places,economics,Switzerland,,,biggest-decreases-in-gold-stockpiles-countries-1.csv
+Biggest Increases in Gold Stockpiles: Countries,10/31/2013,places,economics,Russia,,,biggest-increases-in-gold-stockpiles-countries-1.csv
+Most Affordable Among the Most Expensive: Colleges,10/29/2013,schools,education,Harvard University,,TRUE,most-affordable-among-the-most-expensive-colleges.csv
+Most Assets Worldwide: Banks,10/29/2013,companies,business,Industrial & Commercial Bank of China,,TRUE,most-assets-worldwide-banks.csv
+Lowest Paid with Strong Stock Performance: CEOs,10/25/2013,people,business,Robert Duggan,,,lowest-paid-with-strong-stock-performance-ceos-1.csv
+Most Residents Thrice Wed or More: States,10/24/2013,places,lifestyle,Arkansas,,,most-residents-thrice-wed-or-more-states.csv
+Biggest Drop in Debt Relative to GDP: Countries,10/24/2013,places,economics,Greece,,,biggest-drop-in-debt-relative-to-gdp-countries-1.csv
+Most Money Raised: Kickstarter Campaigns,10/24/2013,other,business,Pebble: E-Paper Watch for iPhone and Android,,,most-money-raised-kickstarter-campaigns.csv
+Most Funds Raised Through Green Bonds: Issuers,10/23/2013,companies,business,World Bank: International Bank for Reconstruction and Development,,,most-funds-raised-through-green-bonds-issuers.csv
+Most Common in China: Surnames,10/22/2013,people,lifestyle,Ã¦ÂÅ½,,,most-common-in-china-surnames.csv
+Biggest Rise in Health-Care Cost Relative to Income: Countries,10/21/2013,places,personal-finance,United States,,,biggest-rise-in-health-care-cost-relative-to-income-countries.csv
+Most Licensed Drivers 19 and Younger: States,10/16/2013,places,lifestyle,Iowa,,,most-licensed-drivers-19-and-younger-states.csv
+Most Licensed Drivers Age 85+: States,10/16/2013,places,lifestyle,Connecticut,,,most-licensed-drivers-age-85-plus-states.csv
+Biggest Five-Year Decline in Pension Funding: States,10/15/2013,places,economics,Vermont,,TRUE,biggest-five-year-decline-in-pension-funding-states.csv
+Highest Salaries for Software Engineers: Companies,10/14/2013,companies,business,Juniper Networks,,,highest-salaries-for-software-engineers-companies.csv
+Highest Salaries for Software Engineers: U.S. Cities,10/14/2013,places,business,"San Jose, CA",,,highest-salaries-for-software-engineers-us-cities.csv
+Worst Five-Year Outlook in Europe: Countries,10/11/2013,places,economics,Spain,,,worst-five-year-outlook-in-europe-countries.csv
+Top 20 Tech-Turnaround Artists: CEOs,10/11/2013,people,business,Stephen Luczo,,TRUE,top-20-tech-turnaround-artists-ceos.csv
+Harshest Future Austerity Measures: Countries,10/8/2013,places,economics,Japan,,,harshest-future-austerity-measures-countries.csv
+Top-Selling Born Since 1980: Artists,10/2/2013,people,investing,Jacob Kassay,,TRUE,top-selling-born-since-1980-artists.csv
+Top-Selling Born Since 1970: Artists,10/2/2013,people,investing,Banksy,,TRUE,top-selling-born-since-1970-artists.csv
+Highest Growth in GDP and Population: States,9/30/2013,places,economics,North Dakota,,,highest-growth-in-gdp-and-population-states.csv
+Greatest Risk of Stagflation: Countries,9/27/2013,places,economics,Cyprus,,,greatest-risk-of-stagflation-countries.csv
+Top-Grossing in U.S.: Stephen King Movies,9/25/2013,other,business,The Green Mile,,,top-grossing-in-u-dot-s-stephen-king-movies.csv
+Most Bike Lanes: U.S. Cities,9/25/2013,places,lifestyle,"Tucson, AZ",,,most-bike-lanes-us-cities.csv
+Worst Gridlock: U.S. Cities,9/25/2013,places,lifestyle,"Washington, DC-VA-MD",,,worst-gridlock-us-cities.csv
+Biggest Declines in Homeownership: States,9/23/2013,places,economics,Nevada,,,biggest-declines-in-homeownership-states.csv
+Most Reliant on Nuclear Energy: Countries,9/23/2013,places,economics,France,,TRUE,most-reliant-on-nuclear-energy-countries.csv
+Highest Homeownership Rates: U.S. Cities,9/19/2013,places,economics,"Grand Rapids-Wyoming, MI",,,highest-homeownership-rates-us-cities.csv
+Longest-Tenured in U.S.: CFOs,9/12/2013,people,business,Paul Coghlan,,,longest-tenured-in-u-dot-s-cfos.csv
+Oldest Operating Reactors in the U.S.: Nuclear Power Plants,9/11/2013,other,business,"Nine Mile Point Nuclear Station, Unit 1",,TRUE,oldest-operating-reactors-in-the-u-dot-s-nuclear-power-plants.csv
+Most Vaccinated Children: States,9/10/2013,places,lifestyle,Mississippi,,,most-vaccinated-children-states.csv
+Biggest Recoveries in Financial Sector: Stocks,9/10/2013,investments,business,Fifth Third Bancorp,,,biggest-recoveries-in-financial-sector-stocks.csv
+Highest-Paid in U.S. While Outearning Their CEOs: CFOs,9/10/2013,people,personal-finance,Peter Oppenheimer,,,highest-paid-in-us-while-outearning-their-ceos-cfos.csv
+Biggest Prospective Bubbles: U.S. Cities,9/9/2013,places,economics,"Yuma, AZ",,,biggest-prospective-bubbles-us-cities.csv
+Worst On-Time Arrivals: Airlines,9/6/2013,companies,business,China Eastern Airlines,,TRUE,worst-on-time-arrivals-airlines.csv
+Strongest in China: Banks,9/3/2013,companies,business,Bank of Beijing,,,strongest-in-china-banks.csv
+Most Tech-CEO Alumni: Colleges,8/29/2013,schools,business,Princeton University,,,most-tech-ceo-alumni-colleges.csv
+Most Tech-CEO Graduate School Alumni: Colleges,8/29/2013,schools,business,Harvard University,,,most-tech-ceo-graduate-school-alumni-colleges-1.csv
+Most Female CFA Society Members: Global Regions,8/28/2013,places,business,Asia Pacific,,,most-female-cfa-society-members-global-regions.csv
+Fewest Female CFA Society Members: Countries,8/28/2013,places,business,Brazil,,,fewest-female-cfa-society-members-countries.csv
+Most Female Members: U.S. CFA Societies,8/28/2013,other,business,"CFA Society of Washington, DC",,,most-female-members-us-cfa-societies.csv
+Top Spenders on International Tourism: Countries,8/27/2013,places,economics,China,,,top-spenders-on-international-tourism-countries.csv
+World's Worst for Departures: Airports,8/27/2013,places,business,Beijing Capital International,,,worlds-worst-for-departures-airports.csv
+Worst On-Time Arrivals in U.S.: Airports,8/27/2013,places,business,Newark Liberty International,,,worst-on-time-arrivals-in-u-dot-s-airports.csv
+Best in Florida for Seniors: Counties,8/27/2013,places,lifestyle,Sarasota,,,best-in-florida-for-seniors-counties.csv
+Top Tourist Destinations: Countries,8/26/2013,places,lifestyle,France,,,top-tourist-destinations-countries.csv
+Most Retirement Spent Alone for Women: States,8/23/2013,places,lifestyle,District of Columbia,,,most-retirement-spent-alone-for-women-states.csv
+Highest Risk-Adjusted Returns in U.S. Tech: Companies,8/22/2013,investments,investing,MasterCard,,TRUE,highest-risk-adjusted-returns-in-us-tech-companies.csv
+Biggest Change in Real Estate Loans: Countries,8/20/2013,places,economics,Canada,,,biggest-change-in-real-estate-loans-countries.csv
+Highest Growth in BRIC Fuel Consumption: Countries,8/16/2013,places,economics,China,,,highest-growth-in-bric-fuel-consumption-countries.csv
+Most Cash in U.S.: Companies,8/15/2013,companies,business,Bank of America,,,most-cash-in-u-dot-s-companies-1.csv
+Most Cash in the World: Companies,8/15/2013,companies,business,Industrial & Commercial Bank of China,,,most-cash-in-the-world-companies.csv
+Biggest Change in Employment: Countries,8/14/2013,places,business,Singapore,,,biggest-change-in-employment-countries.csv
+Highest GDP Growth: States,8/14/2013,places,economics,North Dakota,,,highest-gdp-growth-states.csv
+Most Time Spent Daily: Activities,8/8/2013,other,lifestyle,Sleeping,,,most-time-spent-daily-activities-1.csv
+Best Graduation Rates: Colleges,8/6/2013,schools,education,Williams College,,,best-graduation-rates-colleges.csv
+Most Back-to-School Stores: States,8/6/2013,places,business,New Jersey,,,most-back-to-school-stores-states.csv
+Most Untaxed Overseas Profits in U.S. Technology: Companies,8/1/2013,companies,business,Microsoft,,,most-untaxed-overseas-profits-in-us-technology-companies.csv
+Most Profitable in Technology in U.S.: Companies,7/31/2013,companies,business,Apple,,,most-profitable-in-technology-in-u-dot-s-companies.csv
+Biggest Gap Between Male and Female Pay: CEOs,7/30/2013,people,business,Patti Hart,,,biggest-gap-between-male-and-female-pay-ceos.csv
+"Biggest Gains, Single-Family Home Prices: U.S. Cities",7/24/2013,places,personal-finance,"Jacksonville, FL",,,biggest-gains-single-family-home-prices-us-cities.csv
+Highest Dividend Yields in U.S.: Companies,7/24/2013,companies,investing,Arlington Asset Investment,,,highest-dividend-yields-in-u-dot-s-companies.csv
+Dirtiest Beaches in the U.S.: States,7/23/2013,places,lifestyle,Ohio,,,dirtiest-beaches-in-the-u-dot-s-states.csv
+Longest Life Span in the Americas: Countries,7/19/2013,places,lifestyle,Canada,,,longest-life-span-in-the-americas-countries.csv
+Most Married Residents: States,7/18/2013,places,lifestyle,Utah,,,most-married-residents-states.csv
+Most Deficient Bridges: States,7/16/2013,places,politics-and-policy,Pennsylvania,,,most-deficient-bridges-states.csv
+Longest Life Span in Western Europe: Countries,7/15/2013,places,lifestyle,Switzerland,,,longest-life-span-in-western-europe-countries.csv
+Longest Life Span in the OECD: Countries,7/13/2013,places,lifestyle,Switzerland,,,longest-life-span-in-the-oecd-countries.csv
+Widest Pay Gap Between CEOs and Salesclerks: States,7/11/2013,places,business,Kentucky,,,widest-pay-gap-between-ceos-and-salesclerks-states.csv
+Least Upwardly Mobile Low-Wage Workers: States,7/11/2013,places,personal-finance,New Jersey,,,least-upwardly-mobile-low-wage-workers-states.csv
+Highest Inflation: Countries,7/11/2013,places,economics,Venezuela,,,highest-inflation-countries.csv
+Hottest Days: States,7/10/2013,places,lifestyle,California,,,hottest-days-states.csv
+Most Unintentional Deaths: States,7/9/2013,places,lifestyle,New Mexico,,,most-unintentional-deaths-states.csv
+Longest Life Span in Asia Pacific: Countries,7/9/2013,places,lifestyle,Hong Kong,,,longest-life-span-in-asia-pacific-countries.csv
+Highest-Paid at Companies That Lost Money: CEOs,7/8/2013,people,business,John Richels,,,highest-paid-at-companies-that-lost-money-ceos.csv
+Longest Life Span in Middle East and Africa: Countries,7/5/2013,places,lifestyle,Israel,,,longest-life-span-in-middle-east-and-africa-countries.csv
+Most Oil-Dependent Economies: Countries,7/3/2013,places,business,Libya,,,most-oil-dependent-economies-countries.csv
+Highest Ratio of Shale Gas to Natural Gas: Countries,7/3/2013,places,economics,Argentina,,,highest-ratio-of-shale-gas-to-natural-gas-countries.csv
+Biggest Increase in Beer Consumption: States,7/2/2013,places,business,North Dakota,,,biggest-increase-in-beer-consumption-states.csv
+Most Beer Consumption 2012: States,7/2/2013,places,business,North Dakota,,,most-beer-consumption-2012-states.csv
+Longest Life Span in E. Europe/Central Asia: Countries,7/2/2013,places,lifestyle,Slovenia,,,longest-life-span-in-e-europe-slash-central-asia-countries.csv
+Highest Unemployment: Countries,6/28/2013,places,economics,Greece,,,highest-unemployment-countries.csv
+Most Financial Aid: Colleges,6/27/2013,schools,education,Boston University,,,most-financial-aid-colleges.csv
+Biggest Prime Workforce: States,6/26/2013,places,economics,District of Columbia,,,biggest-prime-workforce-states.csv
+Highest Concentration of Restaurants: States,6/26/2013,places,business,District of Columbia,,,highest-concentration-of-restaurants-states.csv
+Highest Obesity Inequality/Females: Countries,6/25/2013,places,lifestyle,Bangladesh,,,highest-obesity-inequality-slash-females-countries.csv
+Highest Obesity Inequality/Males: Countries,6/25/2013,places,lifestyle,Ethiopia,,,highest-obesity-inequality-slash-males-countries.csv
+Most Assets in U.S.: Banks,6/25/2013,companies,economics,JPMorgan Chase,,,most-assets-in-u-dot-s-banks.csv
+Least Expensive Housing Markets: U.S. Cities,6/24/2013,places,economics,"Ocala, FL",,,least-expensive-housing-markets-us-cities.csv
+Most Expensive Housing Markets: U.S. Cities,6/24/2013,places,economics,"San Jose, CA",,,most-expensive-housing-markets-us-cities.csv
+Most Foreclosures: U.S. Cities,6/17/2013,places,economics,"Miami, FL",,,most-foreclosures-us-cities.csv
+Greatest Growth in Car Sales Worldwide: Companies,6/14/2013,companies,business,Great Wall Motor,,,greatest-growth-in-car-sales-worldwide-companies.csv
+Greatest Increase in Vehicle Sales: Countries,6/14/2013,places,business,Indonesia,,,greatest-increase-in-vehicle-sales-countries.csv
+Highest Youth Unemployment: Countries,6/12/2013,places,economics,Greece,,TRUE,highest-youth-unemployment-countries.csv
+Biggest Oil Producers: Countries,6/12/2013,places,business,Russia,,,biggest-oil-producers-countries.csv
+Top 20 by Profits Worldwide: Companies,6/11/2013,companies,business,Exxon Mobil,,,top-20-by-profits-worldwide-companies.csv
+Biggest Increases in School Spending: States,6/11/2013,places,education,Alaska,,,biggest-increases-in-school-spending-states.csv
+Most Educated: States,6/11/2013,places,education,District of Columbia,,,most-educated-states.csv
+Greatest Decrease in Marriages: States,6/10/2013,places,lifestyle,Tennessee,,,greatest-decrease-in-marriages-states.csv
+Highest Pay for a High School Diploma: Jobs,6/7/2013,careers,personal-finance,Managers,,,highest-pay-for-a-high-school-diploma-jobs.csv
+Highest Pay for a Bachelor's Degree: Jobs,6/7/2013,careers,personal-finance,Chief Executives,,,highest-pay-for-a-bachelors-degree-jobs.csv
+Highest Pay for an Advanced College Degree: Jobs,6/7/2013,careers,personal-finance,Anesthesiologists,,,highest-pay-for-an-advanced-college-degree-jobs.csv
+Highest Pay for Some College: Jobs,6/7/2013,careers,personal-finance,Air Traffic Controllers,,,highest-pay-for-some-college-jobs.csv
+Highest Pay without a High School Diploma: Jobs,6/7/2013,careers,personal-finance,Mine Shuttle Car Operators,,,highest-pay-without-a-high-school-diploma-jobs.csv
+Most Consumers with Student Loan Debt: States,6/6/2013,places,personal-finance,District of Columbia,,,most-consumers-with-student-loan-debt-states.csv
+Highest Concentration of Arts Majors: States,6/6/2013,places,education,New York,,,highest-concentration-of-arts-majors-states.csv
+Highest Concentration of Engineering Majors: States,6/6/2013,places,education,Michigan,,,highest-concentration-of-engineering-majors-states.csv
+Getting Fatter Fastest: States,6/5/2013,places,lifestyle,Delaware,,,getting-fatter-fastest-states.csv
+Lowest Ratio of Obesity to Health Coaches: States,6/5/2013,places,lifestyle,Massachusetts,,,lowest-ratio-of-obesity-to-health-coaches-states.csv
+Highest Rents: U.S. Cities,6/4/2013,places,economics,"San Jose-Sunnyvale-Santa Clara, CA",,,highest-rents-us-cities.csv
+Top 20 by Revenue Worldwide: Companies,6/4/2013,companies,business,Wal-Mart Stores,,,top-20-by-revenue-worldwide-companies.csv
+Top 20 by Revenue in U.S.: Companies,6/4/2013,companies,business,Wal-Mart Stores,,,top-20-by-revenue-in-u-dot-s-companies.csv
+Top 20 by Profits in U.S.: Companies,6/4/2013,companies,business,Exxon Mobil,,,top-20-by-profits-in-u-dot-s-companies.csv
+Top-Selling Contemporary: Female Artists,6/3/2013,people,investing,Yayoi Kusama,,,top-selling-contemporary-female-artists.csv
+Most Smoker-Friendly: States,5/31/2013,places,lifestyle,Kentucky,,,most-smoker-friendly-states.csv
+Most Overpaid in Banking Industry: CEOs,5/31/2013,people,business,Richard Fairbank,,,most-overpaid-in-banking-industry-ceos.csv
+Most Miserable: States,5/31/2013,places,lifestyle,Louisiana,,TRUE,most-miserable-states.csv
+Fastest-Growing Moving Destinations: U.S. Cities,5/30/2013,places,business,"San Francisco, CA",,,fastest-growing-moving-destinations-us-cities.csv
+Top-Grossing in U.S.: Movies,5/29/2013,other,business,Gone with the Wind,,,top-grossing-in-u-dot-s-movies.csv
+Most Paid Time Off: Countries,5/29/2013,places,economics,Austria,,,most-paid-time-off-countries.csv
+Fastest Aging Within One Generation: Countries,5/28/2013,places,lifestyle,South Korea,,,fastest-aging-within-one-generation-countries.csv
+Favorite Locations of High-Tech Companies: Countries,5/28/2013,places,business,United States,,,favorite-locations-of-high-tech-companies-countries.csv
+Biggest Increases In Lobbying in U.S.: Companies,5/28/2013,companies,business,Google,,TRUE,biggest-increases-in-lobbying-in-u-dot-s-companies.csv
+Least Earnings Potential: Jobs,5/25/2013,careers,personal-finance,Postal Service Mail Carriers,,,least-earnings-potential-jobs.csv
+Most Earnings Potential: Jobs,5/25/2013,careers,personal-finance,"Securities, Commodities and Financial Services Sales Agents",,,most-earnings-potential-jobs.csv
+Most Innovative in the U.S.: Companies,5/23/2013,companies,business,Cyberonics,,,most-innovative-in-the-u-dot-s-companies.csv
+Biggest Involving Internet Companies: Takeover Deals,5/20/2013,companies,business,Skype Technologies,,,biggest-involving-internet-companies-takeover-deals.csv
+Strongest in the U.S.: Banks,5/20/2013,companies,business,Citigroup,,,strongest-in-the-u-dot-s-banks.csv
+Biggest Pay Premiums for Dual-Role CEOs: Industries,5/15/2013,companies,business,Telecommunication Services,,,biggest-pay-premiums-for-dual-role-ceos-industries.csv
+Most Stressed-Out: Countries,5/10/2013,places,lifestyle,Nigeria,,,most-stressed-out-countries.csv
+Most Decadent: Countries,5/6/2013,places,lifestyle,Czech Republic,,,most-decadent-countries.csv
+Highest Salaries in OECD: Countries,5/3/2013,places,economics,United States,,,highest-salaries-in-oecd-countries.csv
+"Lowest-Paying, Most Dangerous: Jobs",5/3/2013,careers,economics,Fishermen and related workers,,TRUE,lowest-paying-most-dangerous-jobs.csv
+Worst for Minimum-Wage Workers: States,5/3/2013,places,personal-finance,District of Columbia,,,worst-for-minimum-wage-workers-states.csv
+Best for Workers: Countries,5/3/2013,places,business,Ireland,,,best-for-workers-countries.csv
+Lowest-Paid Boards: Companies,5/3/2013,companies,business,Berkshire Hathaway,,,lowest-paid-boards-companies.csv
+The EU's Busiest Psychiatrists: Countries,5/2/2013,places,lifestyle,Portugal,,,the-eus-busiest-psychiatrists-countries.csv
+Most Worried About by Aging Rich People: Concerns,5/1/2013,other,lifestyle,Memory,,,most-worried-about-by-aging-rich-people-concerns.csv
+Most Underachieving: CEOs,5/1/2013,people,business,Meg Whitman,,,most-underachieving-ceos.csv
+Highest Showbiz Pay: States,4/23/2013,places,business,California,,,highest-showbiz-pay-states.csv
+Most Showbiz Jobs: States,4/23/2013,places,economics,California,,,most-showbiz-jobs-states.csv
+Wealthiest Retired Residents: U.S. Cities,4/23/2013,places,lifestyle,"Crows Nest, IN",,,wealthiest-retired-residents-us-cities.csv
+Longest Commutes: U.S. Cities,4/22/2013,places,lifestyle,"New York, NY",,,longest-commutes-us-cities.csv
+Highest-Paid While Outearning Their CEOs: Executives,4/17/2013,people,business,Robert Mansfield,,,highest-paid-while-outearning-their-ceos-executives.csv
+"Most Tax Revenue from Alcohol, Tobacco, Betting: States",4/16/2013,places,personal-finance,Texas,,,most-tax-revenue-from-alcohol-tobacco-betting-states.csv
+Most Profitable Employees: Companies,4/9/2013,companies,business,InterDigital,,,most-profitable-employees-companies.csv
+U.S. Brain Gains: Countries,4/8/2013,places,economics,India,,,us-brain-gains-countries.csv
+Highest Pay for Tech Jobs: States,4/8/2013,places,business,District of Columbia,,,highest-pay-for-tech-jobs-states.csv
+Greatest Growth in Jobs for Techies: States,4/8/2013,places,personal-finance,California,,,greatest-growth-in-jobs-for-techies-states.csv
+Most Efficient: Companies,4/3/2013,companies,business,Mueller Industries,,TRUE,most-efficient-companies.csv
+Fastest-Growing: College Endowments,4/2/2013,schools,education,UCLA Foundation,,,fastest-growing-college-endowments.csv
+Highest Electricity Production: Countries,3/31/2013,places,economics,United States,,,highest-electricity-production-countries.csv
+Fewest Female Top Executives: States,3/31/2013,places,business,Arkansas,,,fewest-female-top-executives-states.csv
+Most Volunteers: States,3/30/2013,places,lifestyle,Utah,,TRUE,most-volunteers-states.csv
+Greatest Growth in Coal Production: States,3/29/2013,places,business,Wyoming,,,greatest-growth-in-coal-production-states.csv
+Priciest Places to Wed: U.S. Cities,3/21/2013,places,personal-finance,"New York, NY (Manhattan)",,,priciest-places-to-wed-us-cities.csv
+Biggest Increase in Number of Brewers: States,3/20/2013,places,business,California,,,biggest-increase-in-number-of-brewers-states.csv
+Greatest Concentration of Senior Poverty: States,3/15/2013,places,economics,North Dakota,,,greatest-concentration-of-senior-poverty-states.csv
+Longest Retirements: States,3/15/2013,places,lifestyle,Hawaii,,,longest-retirements-states.csv
+Most Seniors: States,3/15/2013,places,lifestyle,California,,,most-seniors-states.csv
+Biggest Boomtowns: U.S. Cities,3/7/2013,places,economics,"Austin-Round Rock, TX",,,biggest-boomtowns-us-cities.csv
+Most Cash After Debt: Companies,3/3/2013,companies,business,General Electric,,,most-cash-after-debt-companies.csv
+Most Money Going to Home Improvement: U.S. Cities,2/25/2013,places,business,"Phoenix, AZ",,,most-money-going-to-home-improvement-us-cities.csv
+Highest Passive Earners: U.S. Cities,2/25/2013,places,personal-finance,"San Francisco-Oakland-Fremont, CA",,,highest-passive-earners-us-cities.csv
+Most Noncitizen Homeowners: U.S. Cities,2/13/2013,places,lifestyle,"El Paso, TX",,,most-noncitizen-homeowners-us-cities.csv
+Highest-Earning Top 5%: U.S. Cities,2/13/2013,places,personal-finance,"Huntleigh, MO",,,highest-earning-top-5-percent-us-cities.csv
+Most Million-Dollar Tax Filers: States,2/12/2013,places,personal-finance,California,,,most-million-dollar-tax-filers-states.csv
+Biggest Gender Gap in Earnings: Countries,1/31/2013,places,personal-finance,South Korea,,,biggest-gender-gap-in-earnings-countries.csv
+Best Five-Year Employee Growth: Industries,1/23/2013,companies,business,Technology - Hardware,,,best-five-year-employee-growth-industries.csv
+Highest Male/Female Ratios: States,1/16/2013,places,lifestyle,North Dakota,,,highest-male-slash-female-ratios-states.csv
+Oldest Fleets: Airlines,1/16/2013,companies,business,Allegiant Air,,,oldest-fleets-airlines.csv
+Largest Wage Increases: States,1/14/2013,places,personal-finance,District of Columbia,,,largest-wage-increases-states.csv
+Most Popular for Heating U.S. Homes: Energy Sources,1/4/2013,other,economics,Gas,,,most-popular-for-heating-us-homes-energy-sources.csv
+Most Volunteers: U.S. Cities,1/2/2013,places,lifestyle,"Minneapolis-St. Paul-Bloomington, MN-WI",,,most-volunteers-us-cities.csv
+Biggest Lottery Losers: States,1/1/2013,places,personal-finance,Georgia,,,biggest-lottery-losers-states.csv
+Biggest Brain Gains: U.S. Cities,12/19/2012,places,education,"Jersey City, NJ",,,biggest-brain-gains-us-cities.csv
+Most Stores per Square Mile: States,11/29/2012,places,business,New Jersey,,,most-stores-per-square-mile-states.csv
+Heaviest Women: Countries,11/27/2012,places,lifestyle,Egypt,,,heaviest-women-countries.csv
+Heaviest Men: Countries,11/27/2012,places,lifestyle,Czech Republic,,,heaviest-men-countries.csv
+Busiest Airports for International Travel: U.S. Cities,11/27/2012,places,lifestyle,"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,busiest-airports-for-international-travel-us-cities.csv
+Heaviest Population: Countries,11/27/2012,places,lifestyle,United States,,,heaviest-population-countries.csv
+Greatest Loss of Land: Countries,11/2/2012,places,politics-and-policy,St. Kitts and Nevis,,,greatest-loss-of-land-countries.csv
+Highest-Paying: College Degrees,10/29/2012,schools,personal-finance,Engineering,,,highest-paying-college-degrees.csv
+Most Rapidly Aging: Countries,10/24/2012,places,lifestyle,Japan,,,most-rapidly-aging-countries.csv
+Longest Retirements: Countries,10/24/2012,places,lifestyle,Singapore,,,longest-retirements-countries.csv
+Most Recession-Resistant: U.S. Cities,10/19/2012,places,economics,"Bismarck, ND",,,most-recession-resistant-us-cities.csv
+Highest Premiums for Advanced Degrees: U.S. Cities,10/11/2012,places,personal-finance,"Miami, FL",,,highest-premiums-for-advanced-degrees-us-cities.csv
+Most Popular in the World: U.S. Fast-Food Brands,7/23/2012,companies,business,Subway,,,most-popular-in-the-world-us-fast-food-brands.csv
+Worst Dental Health: States,7/13/2012,places,lifestyle,Mississippi,,,worst-dental-health-states.csv
